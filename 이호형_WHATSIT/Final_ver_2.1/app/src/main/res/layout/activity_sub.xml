@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/sub_background"
+    android:background="@drawable/manual3"
+    >
+
+<Button
+        android:id="@+id/btn_start"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#00ff0000"
+    />
+
+
+</LinearLayout>
+
